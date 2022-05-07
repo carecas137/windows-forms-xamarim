@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<associacao>
+  <socio numero="1" nome="daniel" telemovel="93111111" />
+  <socio numero="2" nome="antonio" telemovel="9322222" />
+  <socio numero="3" nome="rui" telemovel="93333333" />
+  <socio numero="4" nome="ze" telemovel="9344444" />
+</associacao>

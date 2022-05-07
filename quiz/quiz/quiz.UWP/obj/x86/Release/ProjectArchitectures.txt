@@ -1,0 +1,1 @@
+C:\Users\conta\source\repos\quiz\quiz\quiz.UWP\quiz.UWP.csproj;x86

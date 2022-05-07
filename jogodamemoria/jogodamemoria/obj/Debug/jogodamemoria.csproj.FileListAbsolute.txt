@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\bin\Debug\jogodamemoria.exe.config
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\bin\Debug\jogodamemoria.exe
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\bin\Debug\jogodamemoria.pdb
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.Form1.resources
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.Properties.Resources.resources
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.exe
+C:\Users\conta\source\repos\jogodamemoria\jogodamemoria\obj\Debug\jogodamemoria.pdb

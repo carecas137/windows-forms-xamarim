@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.Form1.resources
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.Properties.Resources.resources
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\bin\Debug\ficheiros_xml.exe.config
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\bin\Debug\ficheiros_xml.exe
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\bin\Debug\ficheiros_xml.pdb
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.exe
+C:\Users\conta\source\repos\ficheiros_xml\ficheiros_xml\obj\Debug\ficheiros_xml.pdb

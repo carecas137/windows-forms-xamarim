@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.Form1.resources
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.Properties.Resources.resources
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\bin\Debug\fatorialclasses.exe.config
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\bin\Debug\fatorialclasses.exe
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\bin\Debug\fatorialclasses.pdb
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.exe
+C:\Users\conta\source\repos\fatorialclasses\fatorialclasses\obj\Debug\fatorialclasses.pdb

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="quiz.pergunta1">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand">
+            <Label Text="Pontaçao=0" x:Name="ponta"/>
+            <Label Text="Qual é o Maior pais do mundo?" />
+            <Button Text="China" Clicked="per2eAsync"/>
+            <Button Text="Russia" Clicked="per2cAsync"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

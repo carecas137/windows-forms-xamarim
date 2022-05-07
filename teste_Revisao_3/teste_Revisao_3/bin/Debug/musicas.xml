@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<musicas>
+  <musica nome="teste" autor="rick roll" estilo="drama" link="https://e-escola.cic.pt/moodle/pluginfile.php/61332/mod_resource/content/1/Teste3_fxXML.pdf" />
+  <musica nome="a" autor="aa" estilo="a" link="a" />
+</musicas>

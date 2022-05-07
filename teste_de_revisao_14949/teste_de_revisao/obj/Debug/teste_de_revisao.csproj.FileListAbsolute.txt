@@ -1,0 +1,11 @@
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\bin\Debug\teste_de_revisao.exe.config
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\bin\Debug\teste_de_revisao.exe
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\bin\Debug\teste_de_revisao.pdb
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.Form1.resources
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.Properties.Resources.resources
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.exe
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.pdb
+C:\Users\conta\source\repos\teste_de_revisao\teste_de_revisao\obj\Debug\teste_de_revisao.Form2.resources

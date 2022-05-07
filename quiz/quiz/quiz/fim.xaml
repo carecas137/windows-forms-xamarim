@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="quiz.fim">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand">
+            <Label Text="A sua pontuação foi" />
+            <Label Text="dddd" x:Name="ponta"/>
+            <Button Text="voltar" Clicked="voltarAsync"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

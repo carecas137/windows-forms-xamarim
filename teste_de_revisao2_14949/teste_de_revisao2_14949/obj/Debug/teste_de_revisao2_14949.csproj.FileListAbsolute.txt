@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\bin\Debug\teste_de_revisao2_14949.exe.config
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\bin\Debug\teste_de_revisao2_14949.exe
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\bin\Debug\teste_de_revisao2_14949.pdb
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.Form1.resources
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.Properties.Resources.resources
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.exe
+C:\Users\conta\source\repos\teste_de_revisao2_14949\teste_de_revisao2_14949\obj\Debug\teste_de_revisao2_14949.pdb

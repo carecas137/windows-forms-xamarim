@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\pizzas\pizzas\bin\Debug\pizzas.exe.config
+C:\Users\conta\source\repos\pizzas\pizzas\bin\Debug\pizzas.exe
+C:\Users\conta\source\repos\pizzas\pizzas\bin\Debug\pizzas.pdb
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.Form1.resources
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.Properties.Resources.resources
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.exe
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.pdb
+C:\Users\conta\source\repos\pizzas\pizzas\obj\Debug\pizzas.csprojAssemblyReference.cache

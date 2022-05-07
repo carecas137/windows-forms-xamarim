@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\master mind\master mind\bin\Debug\master mind.exe.config
+C:\Users\conta\source\repos\master mind\master mind\bin\Debug\master mind.exe
+C:\Users\conta\source\repos\master mind\master mind\bin\Debug\master mind.pdb
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master mind.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master_mind.Form1.resources
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master_mind.Properties.Resources.resources
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master mind.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master mind.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master mind.exe
+C:\Users\conta\source\repos\master mind\master mind\obj\Debug\master mind.pdb

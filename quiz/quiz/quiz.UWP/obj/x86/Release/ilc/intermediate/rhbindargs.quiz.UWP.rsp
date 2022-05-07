@@ -1,0 +1,16 @@
+﻿/osver:6.2
+/appcontainer
+"/runtime:mrt100_app"
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\conta\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.1.8\tools\x86\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\conta\source\repos\quiz\quiz\quiz.UWP\obj\x86\Release\ilc\intermediate\MDIL\quiz.UWP.mdilexe"
+"/i:C:\Users\conta\source\repos\quiz\quiz\quiz.UWP\obj\x86\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\conta\source\repos\quiz\quiz\quiz.UWP\obj\x86\Release\ilc\intermediate\Native\quiz.UWP.exe"
+"/pdbAltPath:C:\Users\conta\source\repos\quiz\quiz\quiz.UWP\bin\x86\Release\ilc"
+"/res:C:\Users\conta\source\repos\quiz\quiz\quiz.UWP\obj\x86\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\conta\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
