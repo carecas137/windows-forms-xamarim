@@ -1,0 +1,10 @@
+C:\Users\conta\source\repos\14949_5\14949_5\bin\Debug\14949_5.exe.config
+C:\Users\conta\source\repos\14949_5\14949_5\bin\Debug\14949_5.exe
+C:\Users\conta\source\repos\14949_5\14949_5\bin\Debug\14949_5.pdb
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\14949_5.csprojAssemblyReference.cache
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\_14949_5.Form1.resources
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\_14949_5.Properties.Resources.resources
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\14949_5.csproj.GenerateResource.cache
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\14949_5.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\14949_5.exe
+C:\Users\conta\source\repos\14949_5\14949_5\obj\Debug\14949_5.pdb
